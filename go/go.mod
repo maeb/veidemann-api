@@ -1,4 +1,4 @@
-module github.com/nlnwa/veidemann-api/go
+module github.com/maeb/veidemann-api/go
 
 go 1.14
 
