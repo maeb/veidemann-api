@@ -8,7 +8,8 @@ jobs:
   build:
     if: startsWith(github.event.release.tag_name, 'go/v') == false
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
         with:
