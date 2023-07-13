@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>veidemann-api</artifactId>
-    <groupId>com.github.nlnwa</groupId>
+    <groupId>com.github.maeb</groupId>
     <version>0</version>
     <packaging>jar</packaging>
     <name>Veidemann-API</name>
